@@ -31,7 +31,7 @@ class simpleCommunicator:
         self.sendString(str(value))
         
     # reads latest sent value on serial and returns it
-    def readPort(self):
+    def readData(self):
         return self.serialRead.readline()
     
     # sends command followed by each item in parameters seperated by spaces
