@@ -1,2 +1,4 @@
-# arduinoSerialCommunication
-use for serial communication with arduino and other such boards. 
+# **SerialCommunication**
+__Simplifies communication with arduino, esp32 and other such boards__
+
+##
