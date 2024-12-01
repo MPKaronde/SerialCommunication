@@ -1,8 +1,8 @@
 # **SerialCommunication**
-###__Simplifies communication with arduino, esp32 and other such boards__
+### __Simplifies communication with arduino, esp32 and other such boards__
 
-##Use:
-###simpleCommunicator.py:
+## Use:
+### simpleCommunicator.py:
 instantiate a simpleCommunicator object
     port is a string representing the address of the COM port you're board is connected to you're computer with
     For example: if connected on COM port 7, would use "\\\\.\\COM7"
