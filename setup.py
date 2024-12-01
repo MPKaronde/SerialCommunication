@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="sub-module",
+    name="SerialCommunication",
     version="0.0.1",
     python_requires=">=3.6",
     packages=["communicator"],
